@@ -231,7 +231,7 @@ public class StartBattle {
 
     public static void createCSVFile()
     {
-        String fileName = "IronBattle+Group5.csv";
+        String fileName = "IronBattle_Group5.csv";
 
         try {
             FileWriter writer = new FileWriter(fileName);

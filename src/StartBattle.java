@@ -78,7 +78,7 @@ public class StartBattle {
     }
 
 
-//    Creating a new menu for choosing the characters
+    //    Creating a new menu for choosing the characters
     public static void characterMenu(Scanner scanner) {
         boolean returnToMainMenu = false;
         Character character1 = null;
@@ -95,11 +95,11 @@ public class StartBattle {
 
             switch (choice) {
                 case 1:
-                    System.out.println("Creating Character 1: Warrior..");
+                    System.out.println("\u001B[33mCreating Character 1: Warrior...\u001B[0m");
                     character1 = createWarrior();
                     break;
                 case 2:
-                    System.out.println("Creating Character 1: Wizard..");
+                    System.out.println("\u001B[33mCreating Character 1: Wizard...\u001B[0m");
                     character1 = createWizard();
                     break;
                 case 3:
@@ -121,11 +121,11 @@ public class StartBattle {
 
                 switch (secondChoice) {
                     case 1:
-                        System.out.println("Creating Character 2: Warrior..");
+                        System.out.println("\u001B[33mCreating Character 2: Warrior..\u001B[0m");
                         character2 = createWarrior();
                         break;
                     case 2:
-                        System.out.println("Creating Character 2: Wizard..");
+                        System.out.println("\u001B[33mCreating Character 2: Wizard..\u001B[0m");
                         character2 = createWizard();
                         break;
                     case 3:
@@ -263,11 +263,11 @@ public class StartBattle {
             }
 
             writer.close();
-            System.out.println("CSV of all info of the battle Created Successfully! \nFile Name: " + fileName);
+            System.out.println("\nCSV of all info of the battle Created Successfully! \nFile Name: " + fileName);
         }
         catch (IOException e)
         {
-            System.out.println("Failed to create the CSV file of the battle");
+            System.out.println("\nFailed to create the CSV file of the battle");
         }
 
     }

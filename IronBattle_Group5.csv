@@ -1,9 +1,7 @@
 Type, Name, HP, Stamina/Mana, Strength/Intelligence 
-Warrior, Saruman, Saruman, -3, 5, 4
-Warrior, Arthas, Arthas, 19, 5, 10
-Warrior, Saruman, Saruman, 12, 1, 10
-Warrior, Thrall, Thrall, -2, 2, 8
-Wizard, Gandalf, Gandalf, 18, 33, 42
-Warrior, Arthas, Arthas, -2, 4, 5
-Wizard, Gandalf, Gandalf, 18, 33, 42
-Warrior, Arthas, Arthas, -2, 4, 5
+Warrior, Thrall, Thrall, 21, 5, 2
+Wizard, Grom, Grom, -1, 1, 1
+Wizard, Arthas, Arthas, 39, 21, 45
+Warrior, Thrall, Thrall, -35, 23, 8
+Wizard, Arthas, Arthas, 39, 21, 45
+Warrior, Thrall, Thrall, -35, 23, 8

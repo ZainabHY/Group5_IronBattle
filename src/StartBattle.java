@@ -166,7 +166,7 @@ public class StartBattle {
             int hp = generateRandomValue(100, 200);
             int stamina = generateRandomValue(10, 50);
             int strength = generateRandomValue(1, 10);
-            return new Warrior(name, hp, stamina, strength);
+            return new Wizard(name, hp, stamina, strength);
         }
     }
 

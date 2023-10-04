@@ -1,11 +1,13 @@
 Type, Name, HP, Stamina/Mana, Strength/Intelligence 
-Warrior, Gandalf, Gandalf, 74, 3, 9
-Wizard, Thrall, Thrall, -5, 15, 17
-Wizard, Gandalf, Gandalf, -37, 4, 18
-Wizard, Arthas, Arthas, 3, 33, 38
-Wizard, Gandalf, Gandalf, -37, 4, 18
-Wizard, Arthas, Arthas, 3, 33, 38
-Wizard, Gandalf, Gandalf, 20, 5, 8
-Warrior, Thrall, Thrall, -4, 5, 2
-Wizard, Arthas, Arthas, -7, 10, 7
-Wizard, Grom, Grom, 27, 4, 10
+Warrior, Grom, Grom, -12, 13, 2
+Wizard, Merlin, Merlin, 74, 14, 35
+Warrior, Grom, Grom, -12, 13, 2
+Wizard, Merlin, Merlin, 74, 14, 35
+Wizard, Arthas, Arthas, 0, 4, 1
+Warrior, Merlin, Merlin, 113, 2, 7
+Wizard, Gandalf, Gandalf, 67, 0, 6
+Warrior, Merlin, Merlin, -4, -5, 2
+Warrior, Thrall, Thrall, 87, 8, 9
+Wizard, Gandalf, Gandalf, -11, 40, 23
+Warrior, Thrall, Thrall, 87, 8, 9
+Wizard, Gandalf, Gandalf, -11, 40, 23

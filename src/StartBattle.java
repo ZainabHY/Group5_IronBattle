@@ -163,10 +163,10 @@ public class StartBattle {
         }
         else {
             // Create a Wizard
-            int hp = generateRandomValue(100, 200);
-            int stamina = generateRandomValue(10, 50);
-            int strength = generateRandomValue(1, 10);
-            return new Wizard(name, hp, stamina, strength);
+            int hp = generateRandomValue(50, 100);
+            int mana = generateRandomValue(10, 50);
+            int intelligence = generateRandomValue(1, 10);
+            return new Wizard(name, hp, mana, intelligence);
         }
     }
 
